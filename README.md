@@ -68,7 +68,7 @@
 
 ## About
 
-This is a case study to measure full stack coding skills. This is the backend part of the project. The frontend part can be found [here](https://github.com/saintyusuf/case-roleBasedPortalFrontend).
+This is a case study to measure full stack coding skills. This is the backend part of the project. The frontend part can be found [here](https://github.com/saintyusuf/case-roleBasedPortal-frontend).
 
 ## Stack
 
@@ -81,12 +81,12 @@ Setup MongoDB Locally\
 
 Clone the repository
 ```bash 
-git clone https://github.com/saintyusuf/case-roleBasedPortalFrontend.git
+git clone https://github.com/saintyusuf/case-roleBasedPortal-backend.git
 ```
 
 Change directory
 ```bash 
-cd case-roleBasedPortalFrontend
+cd case-roleBasedPortal-backend
 ```
 
 Install dependencies
